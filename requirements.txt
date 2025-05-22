@@ -1,2 +1,6 @@
 fastapi[standard]
 python-dotenv
+black
+flake8
+isort
+pre-commit
